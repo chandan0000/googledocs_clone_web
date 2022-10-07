@@ -81398,7 +81398,7 @@ if(a.c===B.aw){s=this.a
 s.z.a.kP("typing",A.K(["delta",a.b,"room",s.a.d],t.N,t.z))}},
 $S:489}
 A.any.prototype={
-$0(){A.jJ(new A.iL("https://server-production-99e0.up.railway.app/document/"+this.a.a.d)).be(0,new A.anx(this.b),t.P)},
+$0(){A.jJ(new A.iL("https://googledocscloneweb.netlify.app/document/"+this.a.a.d)).be(0,new A.anx(this.b),t.P)},
 $S:0}
 A.anx.prototype={
 $1(a){var s=this.a.U(t.Pu)
